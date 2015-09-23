@@ -1,0 +1,26 @@
+{
+  "name": "bandwidth-throttle",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "stream",
+    "throttle",
+    "limit",
+    "bandwidth",
+    "transform"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvdstaaij/node-bandwidth-throttle.git"
+  },
+  "author": "Tim van der Staaij",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvdstaaij/node-bandwidth-throttle/issues"
+  },
+  "homepage": "https://github.com/tvdstaaij/node-bandwidth-throttle#readme",
+  "devDependencies": {
+    "commander": "^2.8.1"
+  }
+}
