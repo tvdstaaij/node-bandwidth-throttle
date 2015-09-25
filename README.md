@@ -1,3 +1,5 @@
 # bandwidth-throttle
 
-*still under heavy development and testing*
+Obsoleted by [throttled-reader][1].
+
+[1]: https://github.com/tvdstaaij/node-throttled-reader
